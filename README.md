@@ -10,6 +10,7 @@ I am a former NYC technical recruiter turned Software Engineer.  I've spent the 
 
 ### Please come find me and connect:
 [LinkedIn](https://www.linkedin.com/in/colerutledge)
+
 [GitHub](https://github.com/ColeRutledge)
 
 ```markdown
