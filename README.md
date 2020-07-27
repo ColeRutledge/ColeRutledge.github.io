@@ -1,4 +1,4 @@
-## Hello, world! Welcome to my GitHub Pages site!
+## Welcome!
 
 ## About Me
 
@@ -23,7 +23,7 @@ Built a clone of the popular team-based workflow management application called A
   - Created custom middleware to manage security and authorization throughout the application
   - Added routes to handle CRUD operations for users, tasks, teams, projects, and columns
 
-### AlgoReact   (ReactJS)                                               live | github
+### AlgoReact   (ReactJS) [live](https://blooming-temple-88295.herokuapp.com/) | [github](https://github.com/ColeRutledge/algo-react)
 a sorting algorithm visualizer
 
 - React.js 
