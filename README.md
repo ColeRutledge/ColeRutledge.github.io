@@ -6,7 +6,7 @@ I am a former NYC technical recruiter turned Software Engineer.  I've spent the 
 
 ## Projects
 
-### Asana-Clone   (Node.js, ReactJS, Sequelize, Express)								live | github 
+### Asana-Clone   (Node.js, ReactJS, Sequelize, Express) [live](https://still-reef-05529.herokuapp.com/) | [github](https://github.com/ColeRutledge/Asana-Clone) 
 Built a clone of the popular team-based workflow management application called Asana 
 
 - ReactJS
@@ -34,7 +34,7 @@ a sorting algorithm visualizer
   - Explored some of the fundamentals of the framer motion API to build in seamless page transitions and animate the sorting visuals
 - Material UI 
   - Self-taught the basics of material UI components and theming to built a custom control widget
-  - Widget allows user to control animations and the size of the data set along with reseting or starting a sort.
+  - Widget allows user to control animations and the size of the data set along with resetting or starting a sort.
 
 
 ### Current areas of study:
