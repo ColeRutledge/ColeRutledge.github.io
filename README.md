@@ -46,7 +46,7 @@ a sorting algorithm visualizer
 - PostgreSQL
 - HTML / CSS
 
-##### Future areas of study:
+#### Future areas of study:
 - Docker
 - Microservices
 - Threading
@@ -55,7 +55,7 @@ a sorting algorithm visualizer
 
 
 
-### Please come find me and connect:
+#### Please come find me and connect:
 [LinkedIn](https://www.linkedin.com/in/colerutledge)
 
 [GitHub](https://github.com/ColeRutledge)
